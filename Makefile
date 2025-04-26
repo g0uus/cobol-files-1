@@ -8,4 +8,6 @@ files1: ${TARGET}.cbl
 
 run: ${TARGET}
 	./${TARGET}
-	
+
+clean:
+	rm -rf ${TARGET}
