@@ -1,10 +1,10 @@
        FD EMPLOYEE
-      *    default of ignores
+      *    these are all defaults or ignored
+           is external
            record contains 65 characters
-           block contains 1 record
-           label records are standard
-           is external.
-      *    Recording mode is not supported!
+           block contains 1 records
+           label records are standard.
+      *    Recording mode is not supported by gcobol
       *    RECORDING MODE IS V.
            01 EMPLOYEE-RECORD.
              03 HDR.

@@ -1,8 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
+    "folders": [
+        {
+            "path": "."
+        }
     ],
-    "settings": {}
+    "settings": {
+        "coboleditor.metadata_symbols": [],
+        "coboleditor.metadata_entrypoints": [],
+        "coboleditor.metadata_types": [],
+        "coboleditor.metadata_files": [
+            "1745688184579,employee-rec.cbl"
+        ],
+        "coboleditor.metadata_knowncopybooks": []
+    }
 }
