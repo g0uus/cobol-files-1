@@ -1,0 +1,8 @@
+EMPLOYEE-ID  EMPLOYEE-NAME  AGE  GRADE  SALARY
+001          DEEPACK        35   B      25000
+002          SHETAL         30   B      20000
+003          RANBIR         28   C      15000
+
+004          SOUMYA         45   A      50000
+005          SHREYA         40   A      45000
+999          Graham         70   *      99999
