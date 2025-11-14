@@ -1,5 +1,6 @@
 
 TARGET = files1
+COBOL_FLAGS = -free -Wall -Wextra -Wno-unused-variable -Wno-unused-function
 
 all: ${TARGET}
 

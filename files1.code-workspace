@@ -5,12 +5,17 @@
         }
     ],
     "settings": {
-        "coboleditor.metadata_symbols": [],
+        "coboleditor.metadata_symbols": [
+            "employee-data,files1.cbl,1"
+        ],
         "coboleditor.metadata_entrypoints": [],
         "coboleditor.metadata_types": [],
         "coboleditor.metadata_files": [
-            "1745688184579,employee-rec.cbl"
+            "1763134335551,files1.cbl",
+            "1763134335551,employee-rec.cbl"
         ],
-        "coboleditor.metadata_knowncopybooks": []
+        "coboleditor.metadata_knowncopybooks": [
+            "employee-rec,files1.cbl"
+        ]
     }
 }
